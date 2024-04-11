@@ -1,0 +1,891 @@
+In 1905 a young physicist of twenty-six named Albert Einstein showed how measurements of time and space are affected by motion between an observer and what
+is being observed. To say that Einstein’s theory of relativity revolutionized science
+is no exaggeration. Relativity connects space and time, matter and energy, electricity
+and magnetism—links that are crucial to our understanding of the physical universe.
+From relativity have come a host of remarkable predictions, all of which have been
+confirmed by experiment. For all their profundity, many of the conclusions of relativity
+can be reached with only the simplest of mathematics.
+1.1 SPECIAL RELATIVITY
+All motion is relative; the speed of light in free space is the same for all
+observers
+When such quantities as length, time interval, and mass are considered in elementary
+physics, no special point is made about how they are measured. Since a standard unit
+exists for each quantity, who makes a certain determination would not seem to matter—
+everybody ought to get the same result. For instance, there is no question of principle
+involved in finding the length of an airplane when we are on board. All we have to do
+is put one end of a tape measure at the airplane’s nose and look at the number on the
+tape at the airplane’s tail.
+But what if the airplane is in flight and we are on the ground? It is not hard to determine the length of a distant object with a tape measure to establish a baseline, a
+surveyor’s transit to measure angles, and a knowledge of trigonometry. When we measure the moving airplane from the ground, though, we find it to be shorter than it is
+to somebody in the airplane itself. To understand how this unexpected difference arises
+we must analyze the process of measurement when motion is involved.
+Frames of Reference
+The first step is to clarify what we mean by motion. When we say that something is
+moving, what we mean is that its position relative to something else is changing. A
+passenger moves relative to an airplane; the airplane moves relative to the earth; the
+earth moves relative to the sun; the sun moves relative to the galaxy of stars (the Milky
+Way) of which it is a member; and so on. In each case a frame of reference is part of
+the description of the motion. To say that something is moving always implies a specific
+frame of reference.
+An inertial frame of reference is one in which Newton’s first law of motion holds.
+In such a frame, an object at rest remains at rest and an object in motion continues to
+move at constant velocity (constant speed and direction) if no force acts on it. Any
+frame of reference that moves at constant velocity relative to an inertial frame is itself
+an inertial frame.
+All inertial frames are equally valid. Suppose we see something changing its position with respect to us at constant velocity. Is it moving or are we moving? Suppose
+we are in a closed laboratory in which Newton’s first law holds. Is the laboratory moving or is it at rest? These questions are meaningless because all constant-velocity motion
+is relative. There is no universal frame of reference that can be used everywhere, no
+such thing as “absolute motion.”
+The theory of relativity deals with the consequences of the lack of a universal frame
+of reference. Special relativity, which is what Einstein published in 1905, treatsproblems that involve inertial frames of reference. General relativity, published by
+Einstein a decade later, describes the relationship between gravity and the geometrical
+structure of space and time. The special theory has had an enormous impact on much
+of physics, and we shall concentrate on it here.
+Postulates of Special Relativity
+Two postulates underlie special relativity. The first, the principle of relativity, states:
+The laws of physics are the same in all inertial frames of reference.
+This postulate follows from the absence of a universal frame of reference. If the laws
+of physics were different for different observers in relative motion, the observers could
+find from these differences which of them were “stationary” in space and which were
+“moving.” But such a distinction does not exist, and the principle of relativity expresses
+this fact.
+The second postulate is based on the results of many experiments:
+The speed of light in free space has the same value in all inertial frames of
+reference.
+This speed is 2.998  108 m/s to four significant figures.
+To appreciate how remarkable these postulates are, let us look at a hypothetical
+experiment basically no different from actual ones that have been carried out in a
+number of ways. Suppose I turn on a searchlight just as you fly past in a spacecraft
+at a speed of 2  108 m/s (Fig. 1.1). We both measure the speed of the light waves
+from the searchlight using identical instruments. From the ground I find their speed
+to be 3  108 m/s as usual. “Common sense” tells me that you ought to find a speed
+of (3  2)  108 m/s, or only 1  108 m/s, for the same light waves. But you also
+find their speed to be 3  108 m/s, even though to me you seem to be moving parallel
+to the waves at 2  108 m/s.
+There is only one way to account for these results without violating the principle of
+relativity. It must be true that measurements of space and time are not absolute but depend on the relative motion between an observer and what is being observed. If I were
+to measure from the ground the rate at which your clock ticks and the length of your
+meter stick, I would find that the clock ticks more slowly than it did at rest on the ground
+and that the meter stick is shorter in the direction of motion of the spacecraft. To you,
+your clock and meter stick are the same as they were on the ground before you took off.
+To me they are different because of the relative motion, different in such a way that the
+speed of light you measure is the same 3  108 m/s I measure. Time intervals and lengths
+are relative quantities, but the speed of light in free space is the same to all observers.
+Before Einstein’s work, a conflict had existed between the principles of mechanics,
+which were then based on Newton’s laws of motion, and those of electricity and
+magnetism, which had been developed into a unified theory by Maxwell. Newtonian
+mechanics had worked well for over two centuries. Maxwell’s theory not only covered
+all that was then known about electric and magnetic phenomena but had also predicted that electromagnetic waves exist and identified light as an example of them.
+However, the equations of Newtonian mechanics and those of electromagnetism differ
+in the way they relate measurements made in one inertial frame with those made in a
+different inertial frame.
+Einstein showed that Maxwell’s theory is consistent with special relativity whereas
+Newtonian mechanics is not, and his modification of mechanics brought these branches
+of physics into accord. As we will find, relativistic and Newtonian mechanics agree for
+relative speeds much lower than the speed of light, which is why Newtonian mechanics
+seemed correct for so long. At higher speeds Newtonian mechanics fails and must be
+replaced by the relativistic version.
+1.2 TIME DILATION
+A moving clock ticks more slowly than a clock at rest
+Measurements of time intervals are affected by relative motion between an observer
+and what is observed. As a result, a clock that moves with respect to an observer ticks
+more slowly than it does without such motion, and all processes (including those of
+life) occur more slowly to an observer when they take place in a different inertial frame.
+If someone in a moving spacecraft finds that the time interval between two events
+in the spacecraft is t0, we on the ground would find that the same interval has the
+longer duration t. The quantity t0, which is determined by events that occur at the same
+place in an observer’s frame of reference, is called the proper time of the interval
+between the events. When witnessed from the ground, the events that mark the beginning and end of the time interval occur at different places, and in consequence the
+duration of the interval appears longer than the proper time. This effect is called time
+dilation (to dilate is to become larger).
+To see how time dilation comes about, let us consider two clocks, both of the particularly simple kind shown in Fig. 1.3. In each clock a pulse of light is reflected back
+and forth between two mirrors L0 apart. Whenever the light strikes the lower mirror,
+an electric signal is produced that marks the recording tape. Each mark corresponds
+to the tick of an ordinary clock.
+One clock is at rest in a laboratory on the ground and the other is in a spacecraft
+that moves at the speed  relative to the ground. An observer in the laboratory watches
+both clocks: does she find that they tick at the same rate?
+Figure 1.5 shows the moving clock with its mirrors perpendicular to the direction
+of motion relative to the ground. The time interval between ticks is t. Because the clock
+is moving, the light pulse, as seen from the ground, follows a zigzag path. On its way
+from the lower mirror to the upper one in the time t2, the pulse travels a horizontal
+distance of (t2) and a total distance of c(t2). Since L0 is the vertical distance between
+the mirrors,But 2L0c is the time interval t0 between ticks on the clock on the ground,as in Eq. (1.1), and so
+Time dialation
+t=t0/root(1-V^2/c^2)
+Here is a reminder of what the symbols in Eq. (1.4) represent:
+t0  time interval on clock at rest relative to an observer  proper time
+t  time interval on clock in motion relative to an observer
+  speed of relative motion
+c  speed of light
+Because the quantity
+root(1-V^2/c^2) is always smaller than 1 for a moving object, t is
+always greater than t0. The moving clock in the spacecraft appears to tick at a slower
+rate than the stationary one on the ground, as seen by an observer on the ground.
+Exactly the same analysis holds for measurements of the clock on the ground by
+the pilot of the spacecraft. To him, the light pulse of the ground clock follows a zigzag
+path that requires a total time t per round trip. His own clock, at rest in the spacecraft,
+ticks at intervals of t0. He too finds that
+t
+so the effect is reciprocal: every observer finds that clocks in motion relative to him
+tick more slowly than clocks at rest relative to him.
+Our discussion has been based on a somewhat unusual clock. Do the same conclusions
+apply to ordinary clocks that use machinery—spring-controlled escapements, tuning
+forks, vibrating quartz crystals, or whatever—to produce ticks at constant time intervals?
+The answer must be yes, since if a mirror clock and a conventional clock in the spacecraft agree with each other on the ground but not when in flight, the disagreement
+between then could be used to find the speed of the spacecraft independently of any
+outside frame of reference—which contradicts the principle that all motion is relative.
+The earth and the other planets of the solar system seem to be natural products of the evolution of the sun. Since the sun is a rather ordinary star in other ways, it is not surprising that
+other stars have been found to have planetary systems around them as well. Life developed here
+on earth, and there is no known reason why it should not also have done so on some of these
+planets. Can we expect ever to be able to visit them and meet our fellow citizens of the universe?
+The trouble is that nearly all stars are very far away—thousands or millions of light-years away. (A
+light-year, the distance light travels in a year, is 9.46  1015 m.) But if we can build a spacecraft
+whose speed is thousands or millions of times greater than the speed of light c, such distances
+would not be an obstacle.
+Alas, a simple argument based on Einstein’s postulates shows that nothing can move faster
+than c. Suppose you are in a spacecraft traveling at a constant speed  relative to the earth that
+is greater than c. As I watch from the earth, the lamps in the spacecraft suddenly go out. You
+switch on a flashlight to find the fuse box at the front of the spacecraft and change the blown
+fuse (Fig. 1.6a). The lamps go on again.
+From the ground, though, I would see something quite different. To me, since your speed
+is greater than c, the light from your flashlight illuminates the back of the spacecraft (Fig. 1.6b).
+I can only conclude that the laws of physics are different in your inertial frame from what they
+are in my inertial frame—which contradicts the principle of relativity. The only way to avoid
+this contradiction is to assume that nothing can move faster than the speed of light. This assumption has been tested experimentally many times and has always been found to be correct.
+The speed of light c in relativity is always its value in free space of 3.00  108 m/s. In all material media, such as air, water, or glass, light travels more slowly than this, and atomic particles
+are able to move faster in such media than does light. When an electrically charged particle moves
+through a transparent substance at a speed exceeding that of light in the substance, a cone of light
+waves is emitted that corresponds to the bow wave produced by a ship moving through the water
+faster than water waves do. These light waves are known as Cerenkov radiation and form the
+basis of a method of determining the speeds of such particles. The minimum speed a particle must
+have to emit Cerenkov radiation is cn in a medium whose index of refraction is n. Cerenkov radiation is visible as a bluish glow when an intense beam of particles is involved.
+Although time is a relative quantity, not all the notions of time formed by everyday experience are incorrect. Time does not run backward to any observer, for instance. A sequence of events that occur at some particular point at t1, t2, t3, . . . will
+appear in the same order to all observers everywhere, though not necessarily with the
+same time intervals t2  t1, t3  t2, . . . between each pair of events. Similarly, no
+distant observer, regardless of his or her state of motion, can see an event before it
+happens—more precisely, before a nearby observer sees it—since the speed of light
+is finite and signals require the minimum period of time Lc to travel a distance L.
+There is no way to peer into the future, although past events may appear different to
+different observers.
+1.3 DOPPLER EFFECT
+Why the universe is believed to be expanding
+We are all familiar with the increase in pitch of a sound when its source approaches
+us (or we approach the source) and the decrease in pitch when the source recedes from
+us (or we recede from the source). These changes in frequency constitute the doppler
+effect, whose origin is straightforward. For instance, successive waves emitted by a
+source moving toward an observer are closer together than normal because of the
+advance of the source; because the separation of the waves is the wavelength of the
+sound, the corresponding frequency is higher. The relationship between the source
+frequency 0 and the observed frequency  is
+v=v0(1+v/c)/(1-v/c)
+where c  speed of sound
+  speed of observer (+ for motion toward the source,  - for motion away
+from it)
+V  speed of the source (+ for motion toward the observer, - for motion
+away from him)
+If the observer is stationary,   0, and if the source is stationary, V  0.
+The doppler effect in sound varies depending on whether the source, or the observer,
+or both are moving. This appears to violate the principle of relativity: all that should
+count is the relative motion of source and observer. But sound waves occur only in a
+material medium such as air or water, and this medium is itself a frame of reference
+with respect to which motions of source and observer are measurable. Hence there is
+no contradiction. In the case of light, however, no medium is involved and only relative motion of source and observer is meaningful. The doppler effect in light must
+therefore differ from that in sound.
+We can analyze the doppler effect in light by considering a light source as a clock
+that ticks 0 times per second and emits a wave of light with each tick. We will examine
+the three situations shown in Fig. 1.7.
+Visible light consists of electromagnetic waves in a frequency band to which the eye
+is sensitive. Other electromagnetic waves, such as those used in radar and in radio
+communications, also exhibit the doppler effect in accord with Eq. (1.8). Doppler shifts
+in radar waves are used by police to measure vehicle speeds, and doppler shifts in the
+radio waves emitted by a set of earth satellites formed the basis of the highly accurate
+Transit system of marine navigation.
+The Expanding Universe
+The doppler effect in light is an important tool in astronomy. Stars emit light of certain characteristic frequencies called spectral lines, and motion of a star toward or away
+from the earth shows up as a doppler shift in these frequencies. The spectral lines of
+distant galaxies of stars are all shifted toward the low-frequency (red) end of the
+spectrum and hence are called “red shifts.” Such shifts indicate that the galaxies are receding from us and from one another. The speeds of recession are observed to be proportional to distance, which suggests that the entire universe is expanding (Fig. 1.8).
+This proportionality is called Hubble’s law.
+The expansion apparently began about 13 billion years ago when a very small, intensely hot mass of primeval matter exploded, an event usually called the Big Bang.
+As described in Chap. 13, the matter soon turned into the electrons, protons, and neutrons of which the present universe is composed. Individual aggregates that formed
+during the expansion became the galaxies of today. Present data suggest that the current
+expansion will continue forever.
+1.4 LENGTH CONTRACTION
+Faster means shorter
+Measurements of lengths as well as of time intervals are affected by relative motion.
+The length L of an object in motion with respect to an observer always appears to the
+observer to be shorter than its length L0 when it is at rest with respect to him. This
+contraction occurs only in the direction of the relative motion. The length L0 of an
+object in its rest frame is called its proper length. (We note that in Fig. 1.5 the clock
+is moving perpendicular to v, hence L  L0 there.)
+The length contraction can be derived in a number of ways. Perhaps the simplest
+is based on time dilation and the principle of relativity. Let us consider what happens
+to unstable particles called muons that are created at high altitudes by fast cosmic-ray
+particles (largely protons) from space when they collide with atomic nuclei in the earth’s
+atmosphere. A muon has a mass 207 times that of the electron and has a charge of
+either  e or e; it decays into an electron or a positron after an average lifetime of
+2.2 s (2.2  106 s).
+Cosmic-ray muons have speeds of about 2.994  108 m/s (0.998c) and reach sea
+level in profusion—one of them passes through each square centimeter of the earth’s
+surface on the average slightly more often than once a minute. But in t0  2.2 s,
+their average lifetime, muons can travel a distance of only
+t0  (2.994  108 m/s)(2.2  106 s)  6.6  102 m  0.66 km
+before decaying, whereas they are actually created at altitudes of 6 km or more.
+To resolve the paradox, we note that the muon lifetime of t0  2.2 s is what an
+observer at rest with respect to a muon would find. Because the muons are hurtling
+toward us at the considerable speed of 0.998c, their lifetimes are extended in our frame
+of reference by time dilation to
+t   34.8  106 s  34.8 s
+The moving muons have lifetimes almost 16 times longer than those at rest. In a time
+interval of 34.8 s, a muon whose speed is 0.998c can cover the distance
+t  (2.994  108 m/s)(34.8  106 s)  1.04  104 m  10.4 km
+As found by an observer
+moving with the muon, the
+ground is L below it, which is
+a shorter distance than L0.
+As found by observer
+on the ground, the
+muon altitude is L0.
+L0
+L
+Figure 1.9 Muon decay as seen by different observers. The muon size is greatly exaggerated here; in fact,
+the muon seems likely to be a point particle with no extension in space.
+Although its lifetime is only t0  2.2 s in its own frame of reference, a muon can
+reach the ground from altitudes of as much as 10.4 km because in the frame in which
+these altitudes are measured, the muon lifetime is t  34.8 s.
+What if somebody were to accompany a muon in its descent at   0.998c, so that
+to him or her the muon is at rest? The observer and the muon are now in the same
+frame of reference, and in this frame the muon’s lifetime is only 2.2 s. To the observer,
+the muon can travel only 0.66 km before decaying. The only way to account for the
+arrival of the muon at ground level is if the distance it travels, from the point of view
+of an observer in the moving frame, is shortened by virtue of its motion (Fig. 1.9). The
+principle of relativity tells us the extent of the shortening—it must be by the same
+factor of  1   2
+c2 that the muon lifetime is extended from the point of view of a
+stationary observer.
+We therefore conclude that an altitude we on the ground find to be h0 must appear
+in the muon’s frame of reference as the lower altitude
+h  h0  1   2
+c2
+In our frame of reference the muon can travel h0  10.4 km because of time dilation.
+In the muon’s frame of reference, where there is no time dilation, this distance is
+abbreviated to
+bei48482_ch01.qxd 1/15/02 1:21 AM Page 16
+Relativity 17
+h  (10.4 km)  1 (0.998 c)
+2
+c 2  0.66 km
+As we know, a muon traveling at 0.998c goes this far in 2.2 s.
+The relativistic shortening of distances is an example of the general contraction of
+lengths in the direction of motion:
+L  L0  1   2
+c2 (1.9)
+Figure 1.10 is a graph of LL0 versus c. Clearly the length contraction is most
+significant at speeds near that of light. A speed of 1000 km/s seems fast to us, but it
+only results in a shortening in the direction of motion to 99.9994 percent of the proper
+length of an object moving at this speed. On the other hand, something traveling at
+nine-tenths the speed of light is shortened to 44 percent of its proper length, a
+significant change.
+Like time dilation, the length contraction is a reciprocal effect. To a person in a
+spacecraft, objects on the earth appear shorter than they did when he or she was on
+the ground by the same factor of  1   2
+c2 that the spacecraft appears shorter to
+somebody at rest. The proper length L0 found in the rest frame is the maximum length
+any observer will measure. As mentioned earlier, only lengths in the direction of motion
+undergo contraction. Thus to an outside observer a spacecraft is shorter in flight than
+on the ground, but it is not narrower.
+1.5 TWIN PARADOX
+A longer life, but it will not seem longer
+We are now in a position to understand the famous relativistic effect known as the
+twin paradox. This paradox involves two identical clocks, one of which remains on
+the earth while the other is taken on a voyage into space at the speed  and eventually is brought back. It is customary to replace the clocks with the pair of twins Dick and
+Length
+contraction
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+0.001 0.01 0.1 1.0
+L/L0
+v/c
+Figure 1.10 Relativistic length contraction. Only lengths in the direction of motion are affected. The
+horizontal scale is logarithmic.
+bei48482_ch01.qxd 1/15/02 1:21 AM Page 17
+18 Chapter One
+Jane, a substitution that is perfectly acceptable because the processes of life—heartbeats,
+respiration, and so on—constitute biological clocks of reasonable regularity.
+Dick is 20 y old when he takes off on a space voyage at a speed of 0.80c to a star
+20 light-years away. To Jane, who stays behind, the pace of Dick’s life is slower than
+hers by a factor of
+2 c2  0.60  60%
+To Jane, Dick’s heart beats only 3 times for every 5 beats of her heart; Dick takes only
+3 breaths for every 5 of hers; Dick thinks only 3 thoughts for every 5 of hers. Finally
+Dick returns after 50 years have gone by according to Jane’s calendar, but to Dick the
+trip has taken only 30 y. Dick is therefore 50 y old whereas Jane, the twin who stayed
+home, is 70 y old (Fig. 1.11).
+Where is the paradox? If we consider the situation from the point of view of Dick
+in the spacecraft, Jane on the earth is in motion relative to him at a speed of 0.80c.
+Should not Jane then be 50 y old when the spacecraft returns, while Dick is then
+70—the precise opposite of what was concluded above?
+But the two situations are not equivalent. Dick changed from one inertial frame to
+a different one when he started out, when he reversed direction to head home, and
+when he landed on the earth. Jane, however, remained in the same inertial frame during Dick’s whole voyage. The time dilation formula applies to Jane’s observations of
+Dick, but not to Dick’s observations of her.
+To look at Dick’s voyage from his perspective, we must take into account that the
+distance L he covers is shortened to
+
+To Dick, time goes by at the usual rate, but his voyage to the star has taken L  15 y
+and his return voyage another 15 y, for a total of 30 y. Of course, Dick’s life span has
+2130
+2100
+2150
+2100
+Figure 1.11 An astronaut who returns from a space voyage will be younger than his or her twin who
+remains on earth. Speeds close to the speed of light (here   0.8c) are needed for this effect to be
+conspicuous.
+bei48482_ch01.qxd 1/15/02 1:21 AM Page 18
+not been extended to him, because regardless of Jane’s 50-y wait, he has spent only
+30 y on the roundtrip.
+The nonsymmetric aging of the twins has been verified by experiments in which
+accurate clocks were taken on an airplane trip around the world and then compared
+with identical clocks that had been left behind. An observer who departs from an inertial system and then returns after moving relative to that system will always find his
+or her clocks slow compared with clocks that stayed in the system.
+Example 1.4
+Dick and Jane each send out a radio signal once a year while Dick is away. How many signals
+does Dick receive? How many does Jane receive?
+Solution
+On the outward trip, Dick and Jane are being separated at a rate of 0.80c. With the help of the
+reasoning used to analyze the doppler effect in Sec. 1.3, we find that each twin receives signals
+apart. On the return trip, Dick and Jane are getting closer together at the same rate, and each
+receives signals more frequently, namely
+apart.
+To Dick, the trip to the star takes 15 y, and he receives 153  5 signals from Jane. During
+the 15 y of the return trip, Dick receives 15(13)  45 signals from Jane, for a total of 50 signals. Dick therefore concludes that Jane has aged by 50 y in his absence. Both Dick and Jane
+agree that Jane is 70 y old at the end of the voyage.
+To Jane, Dick needs L0  25 y for the outward trip. Because the star is 20 light-years away.
+Jane on the earth continues to receive Dick’s signals at the original rate of one every 3 y for 20 y
+after Dick has arrived at the star. Hence Jane receives signals every 3 y for 25 y   20 y  45 y
+to give a total of 453  15 signals. (These are the 15 signals Dick sent out on the outward
+trip.) Then, for the remaining 5 y of what is to Jane a 50-y voyage, signals arrive from Dick at
+the shorter intervals of 13 y for an additional 5(13)  15 signals. Jane thus receives 30 signals in all and concludes that Dick has aged by 30 y during the time he was away—which agrees
+with Dick’s own figure. Dick is indeed 20 y younger than his twin Jane on his return.
+1.6 ELECTRICITY AND MAGNETISM
+Relativity is the bridge
+One of the puzzles that set Einstein on the trail of special relativity was the connection between electricity and magnetism, and the ability of his theory to clarify the nature of this connection is one of its triumphs.
+Because the moving charges (usually electrons) whose interactions give rise to many
+of the magnetic forces familiar to us have speeds far smaller than c, it is not obvious
+that the operation of an electric motor, say, is based on a relativistic effect. The idea
+becomes less implausible, however, when we reflect on the strength of electric forces.
+The electric attraction between the electron and proton in a hydrogen atom, for instance,
+20 Chapter One
+is 1039 times greater than the gravitational attraction between them. Thus even a small
+change in the character of these forces due to relative motion, which is what magnetic
+forces represent, may have large consequences. Furthermore, although the effective
+speed of an individual electron in a current-carrying wire (1 mm/s) is less than that
+of a tired caterpillar, there may be 1020 or more moving electrons per centimeter in
+such a wire, so the total effect may be considerable.
+Although the full story of how relativity links electricity and magnetism is mathematically complex, some aspects of it are easy to appreciate. An example is the origin
+of the magnetic force between two parallel currents. An important point is that, like
+the speed of light,
+Electric charge is relativistically invariant.
+A charge whose magnitude is found to be Q in one frame of reference is also Q in all
+other frames.
+Let us look at the two idealized conductors shown in Fig. 1.12a. They contain equal
+numbers of positive and negative charges at rest that are equally spaced. Because the
+conductors are electrically neutral, there is no force between them.
+Figure 1.12b shows the same conductors when they carry currents iI and iII in the
+same direction. The positive charges move to the right and the negative charges move to
+the left, both at the same speed  as seen from the laboratory frame of reference. (Actual
+currents in metals consist of flows of negative electrons only, of course, but the electrically equivalent model here is easier to analyze and the results are the same.) Because
+the charges are moving, their spacing is smaller than before by the factor  1   2
+c2
+.
+Since  is the same for both sets of charges, their spacings shrink by the same amounts,
+and both conductors remain neutral to an observer in the laboratory. However, the conductors now attract each other. Why?
+Let us look at conductor II from the frame of reference of one of the negative
+charges in conductor I. Because the negative charges in II appear at rest in this frame,
+their spacing is not contracted, as in Fig. 1.12c. On the other hand, the positive charges
+in II now have the velocity 2, and their spacing is accordingly contracted to a greater
+extent than they are in the laboratory frame. Conductor II therefore appears to have
+a net positive charge, and an attractive force acts on the negative charge in I.
+Next we look at conductor II from the frame of reference of one of the positive
+charges in conductor I. The positive charges in II are now at rest, and the negative
+charges there move to the left at the speed 2. Hence the negative charges are closer
+together than the positive ones, as in Fig. 1.12d, and the entire conductor appears negatively charged. An attractive force therefore acts on the positive charges in I.
+Identical arguments show that the negative and positive charges in II are attracted
+to I. Thus all the charges in each conductor experience forces directed toward the other
+conductor. To each charge, the force on it is an “ordinary” electric force that arises because the charges of opposite sign in the other conductor are closer together than
+the charges of the same sign, so the other conductor appears to have a net charge.
+From the laboratory frame the situation is less straightforward. Both conductors are
+electrically neutral in this frame, and it is natural to explain their mutual attraction by
+attributing it to a special “magnetic” interaction between the currents.
+A similar analysis explains the repulsive force between parallel conductors that carry
+currents in opposite directions. Although it is convenient to think of magnetic forces
+as being different from electric ones, they both result from a single electromagnetic interaction that occurs between charged particles.
+Clearly a current-carrying conductor that is electrically neutral in one frame of
+reference might not be neutral in another frame. How can this observation be reconciled
+Relativity 21
+with charge invariance? The answer is that we must consider the entire circuit of which
+the conductor is a part. Because the circuit must be closed for a current to occur in it,
+for every current element in one direction that a moving observer finds to have, say, a
+positive charge, there must be another current element in the opposite direction which
+the same observer finds to have a negative charge. Hence magnetic forces always act
+between different parts of the same circuit, even though the circuit as a whole appears
+electrically neutral to all observers.
+The preceding discussion considered only a particular magnetic effect. All other
+magnetic phenomena can also be interpreted on the basis of Coulomb’s law, charge invariance, and special relativity, although the analysis is usually more complicated.
+Positive charge Negative charge
+I
+II
+I
+II
+I
+II
+I
+II
+Force on positive charge
+Force on negative charge
+Force on II
+Force on I
+2v
+v
+iI
+v
+2v
+iII
+(a)
+(b)
+(c)
+(d)
+v
+v
+Figure 1.12 How the magnetic attraction between parallel currents arises. (a) Idealized parallel conductors that contain equal numbers of positive and negative charges. (b) When the conductors carry
+currents, the spacing of their moving charges undergoes a relativistic contraction as seen from the laboratory. The conductors attract each other when iI and iII are in the same direction. (c) As seen by a
+negative charge in I, the negative charges in II are at rest whereas the positive charges are in motion.
+The contracted spacing of the latter leads to a net positive charge in II that attracts the negative charge
+in I. (d) As seen by a positive charges in I, the positive charges in II are at rest whereas the negative
+charges are in motion. The contracted spacing of the latter leads to a net negative charge on II that
+attrats the positive charge in I. The contracted spacings in b, c, and d are greatly exaggerated.
+bei48482_ch01.qxd 1/15/02 1:21 AM Page 21
+22 Chapter One
+1.7 RELATIVISTIC MOMENTUM
+Redefining an important quantity
+In classical mechanics linear momentum p  mv is a useful quantity because it is conserved in a system of particles not acted upon by outside forces. When an event such
+as a collision or an explosion occurs inside an isolated system, the vector sum of the
+momenta of its particles before the event is equal to their vector sum afterward. We
+now have to ask whether p  mv is valid as the definition of momentum in inertial
+frames in relative motion, and if not, what a relativistically correct definition is.
+To start with, we require that p be conserved in a collision for all observers in relative motion at constant velocity. Also, we know that p  mv holds in classical
+mechanics, that is, for c. Whatever the relativistically correct p is, then, it must
+reduce to mv for such velocities.
+Let us consider an elastic collision (that is, a collision in which kinetic energy is
+conserved) between two particles A and B, as witnessed by observers in the reference
+frames S and S	 which are in uniform relative motion. The properties of A and B are
+identical when determined in reference frames in which they are at rest. The frames S
+and S	 are oriented as in Fig. 1.13, with S	 moving in the  x direction with respect
+to S at the velocity v.
+Before the collision, particle A had been at rest in frame S and particle B in frame
+S	. Then, at the same instant, A was thrown in the  y direction at the speed VA while
+B was thrown in the y	 direction at the speed VB
+	, where
+VA  VB	 (1.10)
+Hence the behavior of A as seen from S is exactly the same as the behavior of B as seen
+from S	.
+When the two particles collide, A rebounds in the y direction at the speed VA,
+while B rebounds in the  y	 direction at the speed VB
+	. If the particles are thrown from
+positions Y apart, an observer in S finds that the collision occurs at y  
+1
+2
+ Y and one in
+S	 finds that it occurs at y	  y  
+1
+2
+ Y. The round-trip time T0 for A as measured in
+frame S is therefore
+T0  (1.11)
+and it is the same for B in S	:
+T0
+In S the speed VB is found from
+VB  (1.12)
+where T is the time required for B to make its round trip as measured in S. In S	, however,
+B’s trip requires the time T0, where
+T  (1.13) T0
+ 1  2
+c2
+Y
+T
+Y
+VB
+	
+Y
+VA
+bei48482_ch01.qxd 1/15/02 1:21 AM Page 22
+Relativity 23
+according to our previous results. Although observers in both frames see the same
+event, they disagree about the length of time the particle thrown from the other frame
+requires to make the collision and return.
+Replacing T in Eq. (1.12) with its equivalent in terms of T0, we have
+figure 1.13 An elastic collision as observed in two different frames of reference. The balls are initially
+Y apart, which is the same distance in both frames since S	 moves only in the x direction.
+From Eq. (1.11), VA
+If we use the classical definition of momentum, p  mv, then in frame S
+This means that, in this frame, momentum will not be conserved if mA  mB, where
+mA and mB are the masses as measured in S. However, if
+mB  (1.14)
+then momentum will be conserved.
+In the collision of Fig. 1.13 both A and B are moving in both frames. Suppose now
+that VA and VB
+	 are very small compared with , the relative velocity of the two frames.
+In this case an observer in S will see B approach A with the velocity , make a glancing collision (since VB
+	  ), and then continue on. In the limit of VA  0, if m is the
+mass in S of A when A is at rest, then mA  m. In the limit of VB
+	  0, if m() is the
+mass in S of B, which is moving at the velocity , then mB  m(). Hence Eq. (1.14)
+becomes
+m()  (1.15)
+We can see that if linear momentum is defined as
+p  (1.16)
+then conservation of momentum is valid in special relativity. When c, Eq. (1.16)
+becomes just p  mv, the classical momentum, as required. Equation (1.16) is often
+written as
+p   mv (1.17)
+where
+   (1.18)
+In this definition, m is the proper mass (or rest mass) of an object, its mass when
+measured at rest relative to an observer. (The symbol   is the Greek letter gamma.)
+Relativistic
+momentum
+Figure 1.14 shows how p varies with c for both  m and m. When c is small,
+m and  m are very nearly the same. (For   0.01c, the difference is only 0.005
+percent; for   0.1c, it is 0.5 percent, still small). As  approaches c, however, the
+curve for  m rises more and more steeply (for   0.9c, the difference is 229 percent).
+If   c, p   m  
+, which is impossible. We conclude that no material object can
+travel as fast as light.
+But what if a spacecraft moving at 1  0.5c relative to the earth fires a projectile
+at  2  0.5c in the same direction? We on earth might expect to observe the projectile’s speed as 1    2  c. Actually, as discussed in Appendix I to this chapter, velocity
+addition in relativity is not so simple a process, and we would find the projectile’s speed
+to be only 0.8c in such a case.
+Relativistic Second Law
+In relativity Newton’s second law of motion is given by
+F   ( mv) (1.19)
+This is more complicated than the classical formula F  ma because   is a function
+of . When  c,   is very nearly equal to 1, and F is very nearly equal to mv, as it
+should be.
+Relativistic
+second law
+Relativity 25
+“Relativistic Mass”
+We could alternatively regard the increase in an object’s momentum over the classical value
+as being due to an increase in the object’s mass. Then we would call m0  m the rest
+mass of the object and m  m() from Eq. (1.17) its relativistic mass, its mass when moving relative to an observer, so that p  mv. This is the view often taken in the past, at one time even
+by Einstein. However, as Einstein later wrote, the idea of relativistic mass is “not good” because
+“no clear definition can be given. It is better to introduce no other mass concept than the ‘rest
+mass’ m.” In this book the term mass and the symbol m will always refer to proper (or rest)
+mass, which will be considered relativistically invariant.
+4mc
+3mc
+2mc
+mc
+0 0.2 0.4 0.6 0.8 1.0
+Relativistic momentum
+γmv
+Classical momentum mv
+Linear momentum p
+Velocity ratio v/c
+Figure 1.14 The momentum of an object moving at the velocity  relative to an observer. The mass
+m of the object is its value when it is at rest relative to the observer. The object's velocity can never
+reach c because its momentum would then be infinite, which is impossible. The relativistic momentum 
+m is always correct; the classical momentum m is valid for velocities much smaller than c.
+bei48482_ch01.qxd 1/15/02 1:21 AM Page 25
+Example 1.5
+Find the acceleration of a particle of mass m and velocity v when it is acted upon by the constant force F, where F is parallel to v.
+We note that F is equal to  3
+ma, not to  ma. Merely replacing m by  m in classical formulas
+does not always give a relativistically correct result.
+The acceleration of the particle is therefore
+Even though the force is constant, the acceleration of the particle decreases as its velocity increases. As  S c, a S 0, so the particle can never reach the speed of light, a conclusion we
+expect.
+1.8 MASS AND ENERGY
+Where E0  mc2 comes from
+The most famous relationship Einstein obtained from the postulates of special
+relativity—how powerful they turn out to be!—concerns mass and energy. Let us see
+how this relationship can be derived from what we already know.
+As we recall from elementary physics, the work W done on an object by a constant force of magnitude F that acts through the distance s, where F is in the same
+direction as s, is given by W  Fs. If no other forces act on the object and the object starts from rest, all the work done on it becomes kinetic energy KE, so KE  Fs.
+In the general case where F need not be constant, the formula for kinetic energy is
+the integral
+Relativity 27
+bei48482_ch01.qxd 1/15/02 1:21 AM Page 27
+It is worth emphasizing the difference between a conserved quantity, such as total
+energy, and an invariant quantity, such as proper mass. Conservation of E means that,
+in a given reference frame, the total energy of some isolated system remains the same
+regardless of what events occur in the system. However, the total energy may be different as measured from another frame. On the other hand, the invariance of m means
+that m has the same value in all inertial frames.
+The conversion factor between the unit of mass (the kilogram, kg) and the unit of
+energy (the joule, J) is c
+2
+, so 1 kg of matter—the mass of this book is about that—has
+an energy content of mc2  (1 kg)(3  108 m/s)2  9  1016 J. This is enough to
+send a payload of a million tons to the moon. How is it possible for so much energy
+to be bottled up in even a modest amount of matter without anybody having been
+aware of it until Einstein’s work?
+In fact, processes in which rest energy is liberated are very familiar. It is simply that
+we do not usually think of them in such terms. In every chemical reaction that evolves
+energy, a certain amount of matter disappears, but the lost mass is so small a fraction
+of the total mass of the reacting substances that it is imperceptible. Hence the “law” of
+conservation of mass in chemistry. For instance, only about 6  1011 kg of matter
+vanishes when 1 kg of dynamite explodes, which is impossible to measure directly, but
+the more than 5 million joules of energy that is released is hard to avoid noticing.
+Example 1.7
+Solar energy reaches the earth at the rate of about 1.4 kW per square meter of surface perpendicular to the direction of the sun (Fig. 1.15). By how much does the mass of the sun decrease
+per second owing to this energy loss? The mean radius of the earth’s orbit is 1.5  1011 m.
+Solution
+The surface area of a sphere of radius r is A  4r
+2
+. The total power radiated by the sun, which
+is equal to the power received by a sphere whose radius is that of the earth’s orbit, is therefore
+P  A  (4r
+2
+)  (1.4  103 W/m2
+)(4)(1.5  1011 m)2  4.0  1026 W
+Thus the sun loses E0  4.0  1026 J of rest energy per second, which means that the sun’s rest
+mass decreases by
+m   4.4  109 kg
+per second. Since the sun’s mass is 2.0  1030 kg, it is in no immediate danger of running out
+of matter. The chief energy-producing process in the sun and most other stars is the conversion
+of hydrogen to helium in its interior. The formation of each helium nucleus is accompanied by
+the release of 4.0  1011 J of energy, so 1037 helium nuclei are produced in the sun per second.
+4.0  1026
+J
+(3.0  108 m/s)2 
+E0
+c
+2
+P
+
+A
+P
+
+A
+28 Chapter One
+Figure 1.15
+Solar
+radiation
+1.4 kW/m2
+Kinetic Energy at Low Speeds
+When the relative speed  is small compared with c, the formula for kinetic energy
+must reduce to the familiar 
+, which has been verified by experiment at such speeds.
+Let us see if this is true. The relativistic formula for kinetic energy isAt low speeds the relativistic expression for the kinetic energy of a moving object
+does indeed reduce to the classical one. So far as is known, the correct formulation of
+mechanics has its basis in relativity, with classical mechanics representing an approximation that is valid only when     c. Figure 1.16 shows how the kinetic energy of
+Kinetic
+energy
+Figure 1.16 A comparison between the classical and relativistic formulas for the ratio between kinetic
+energy KE of a moving body and its rest energy mc2
+. At low speeds the two formulas give the same
+result, but they diverge at speeds approaching that of light. According to relativistic mechanics, a body
+would need an infinite kinetic energy to travel with the speed of light, whereas in classical mechanics it would need only a kinetic energy of half its rest energy to have this speed.
+understates the true kinetic
+energy by only 0.08 percent; when   3  107 m/s (0.1c), it understates the true
+kinetic energy by 0.8 percent; but when   1.5  108 m/s (0.5c), the understatement is a significant 19 percent; and when   0.999c, the understatement is a whopping 4300 percent. Since 107 m/s is about 6310 mi/s, the nonrelativistic formula2 is entirely satisfactory for finding the kinetic energies of ordinary objects, and
+it fails only at the extremely high speeds reached by elementary particles under certain circumstances.
+1.9 ENERGY AND MOMENTUM
+How they fit together in relativity
+Total energy and momentum are conserved in an isolated system, and the rest energy
+of a particle is invariant. Hence these quantities are in some sense more fundamental
+than velocity or kinetic energy, which are neither. Let us look into how the total energy, rest energy, and momentum of a particle are related.
+We begin with Eq. (1.23) for total energy,
+Total energy E  (1.23)
+and square it to give
+E2
+From Eq. (1.17) for momentum,
+Momentum p  (1.17)
+this quantity for a particle has the same value in all frames of reference.
+For a system of particles rather than a single particle, Eq. (1.24) holds provided
+that the rest energy mc2
+—and hence mass m—is that of the entire system. If the
+particles in the system are moving with respect to one another, the sum of their
+individual rest energies may not equal the rest energy of the system. We saw this in
+Example 1.7 when a stationary body of mass 2.5 kg exploded into two smaller bodies,
+each of mass 1.0 kg, that then moved apart. If we were inside the system, we would
+interpret the difference of 0.5 kg of mass as representing its conversion into kinetic
+energy of the smaller bodies. But seen as a whole, the system is at rest both before
+and after the explosion, so the system did not gain kinetic energy. Therefore the rest
+energy of the system includes the kinetic energies of its internal motions and it corresponds to a mass of 2.5 kg both before and after the explosion.
+In a given situation, the rest energy of an isolated system may be greater than, the
+same as, or less than the sum of the rest energies of its members. An important case
+in which the system rest energy is less than the rest energies of its members is that of
+a system of particles held together by attractive forces, such as the neutrons and protons in an atomic nucleus. The rest energy of a nucleus (except that of ordinary
+hydrogen, which is a single proton) is less than the total of the rest energies of its
+constituent particles. The difference is called the binding energy of the nucleus. To break
+a nucleus up completely calls for an amount of energy at least equal to its binding
+energy. This topic will be explored in detail in Sec. 11.4. For the moment it is interesting to note how large nuclear binding energies are—nearly 1012 kJ per kg of
+nuclear matter is typical. By comparison, the binding energy of water molecules in liquid water is only 2260 kJ/kg; this is the energy needed to turn 1 kg of water at 100°C
+to steam at the same temperature.
+Massless Particles
+Can a massless particle exist? To be more precise, can a particle exist which has no rest
+mass but which nevertheless exhibits such particlelike properties as energy and momentum? In classical mechanics, a particle must have rest mass in order to have energy and momentum, but in relativistic mechanics this requirement does not hold.
+A massless particle with a speed less than that of light can have neither energy nor momentum. However, when m  0 and   c, E  00 and p  00, which are indeterminate: E and p can have any values. Thus Eqs. (1.17) and (1.23) are consistent
+with the existence of massless particles that possess energy and momentum provided
+that they travel with the speed of light.
+Equation (1.24) gives us the relationship between E and p for a particle with m  0:
+Massless particle E  pc (1.25)
+The conclusion is not that massless particles necessarily occur, only that the laws
+of physics do not exclude the possibility as long as   c and E  pc for them. In fact,
+Energy and
+momentum
+a massless particle—the photon—indeed exists and its behavior is as expected, as we
+shall find in Chap. 2.
+Electronvolts
+In atomic physics the usual unit of energy is the electronvolt (eV), where 1 eV is the
+energy gained by an electron accelerated through a potential difference of 1 volt. Since
+W  QV,
+Two quantities normally expressed in electronvolts are the ionization energy of an atom
+(the work needed to remove one of its electrons) and the binding energy of a molecule (the energy needed to break it apart into separate atoms). Thus the ionization
+energy of nitrogen is 14.5 eV and the binding energy of the hydrogen molecule H2 is
+4.5 eV. Higher energies in the atomic realm are expressed in kiloelectronvolts (keV),
+where 1 keV  103 eV.
+In nuclear and elementary-particle physics even the keV is too small a unit in most
+cases, and the megaelectronvolt (MeV) and gigaelectronvolt (GeV) are more appropriate, where
+1 MeV  106 eV 1 GeV  109 eV
+An example of a quantity expressed in MeV is the energy liberated when the nucleus
+of a certain type of uranium atom splits into two parts. Each such fission event releases
+about 200 MeV; this is the process that powers nuclear reactors and weapons.
+The rest energies of elementary particles are often expressed in MeV and GeV and
+the corresponding rest masses in MeV/c
+2 and GeV/c
+2
+.
+In a similar way the MeV/c and GeV/c are sometimes convenient units of linear momentum. Suppose we want to know the momentum of a proton whose speed is 0.800c.
+1.10 GENERAL RELATIVITY
+Gravity is a warping of spacetime
+Special relativity is concerned only with inertial frames of reference, that is, frames that
+are not accelerated. Einstein’s 1916 general theory of relativity goes further by including the effects of accelerations on what we observe. Its essential conclusion is that
+the force of gravity arises from a warping of spacetime around a body of matter
+(Fig. 1.17). As a result, an object moving through such a region of space in general
+follows a curved path rather than a straight one, and may even be trapped there.
+The principle of equivalence is central to general relativity:
+An observer in a closed laboratory cannot distinguish between the effects produced by a gravitational field and those produced by an acceleration of the
+laboratory.
+This principle follows from the experimental observation (to better than 1 part in 1012)
+that the inertial mass of an object, which governs the object’s acceleration when a force
+acts on it, is always equal to its gravitational mass, which governs the gravitational
+force another object exerts on it. (The two masses are actually proportional; the constant of proportionality is set equal to 1 by an appropriate choice of the constant of
+gravitation G.)
+Relativity 33
+Figure 1.17 General relativity pictures gravity as a warping of spacetime due to the presence of a body
+of matter. An object nearby experiences an attractive force as a result of this distortion, much as a
+marble rolls toward the bottom of a depression in a rubber sheet. To paraphrase J. A. Wheeler, spacetime tells mass how to move, and mass tells spacetime how to curve.
+bei48482_ch01.qxd 1/15/02 1:21 AM Page 33
+Gravity and Light
+It follows from the principle of equivalence that light should be subject to gravity. If a
+light beam is directed across an accelerated laboratory, as in Fig. 1.18, its path relative
+to the laboratory will be curved. This means that, if the light beam is subject to the
+gravitational field to which the laboratory’s acceleration is equivalent, the beam would
+follow the same curved path.
+According to general relativity, light rays that graze the sun should have their paths
+bent toward it by 0.005°—the diameter of a dime seen from a mile away. This prediction was first confirmed in 1919 by photographs of stars that appeared in the sky
+near the sun during an eclipse, when they could be seen because the sun’s disk was
+covered by the moon. The photographs were then compared with other photographs
+of the same part of the sky taken when the sun was in a distant part of the sky (Fig. 1.19).
+Einstein became a world celebrity as a result.
+Because light is deflected in a gravitational field, a dense concentration of mass—
+such as a galaxy of stars—can act as a lens to produce multiple images of a distant
+light source located behind it (Fig. 1.20). A quasar, the nucleus of a young galaxy,
+is brighter than 100 billion stars but is no larger than the solar system. The first
+observation of gravitational lensing was the discovery in 1979 of what seemed to
+be a pair of nearby quasars but was actually a single one whose light was deviated
+by an intervening massive object. Since then a number of other gravitational lenses
+have been found; the effect occurs in radio waves from distant sources as well as in
+light waves.
+The interaction between gravity and light also gives rise to the gravitational red shift
+and to black holes, topics that are considered in Chap. 2.
+34 Chapter One
+Laboratory in Accelerated laboratory
+gravitational field
+a = –g
+g
+Figure 1.18 According to the principle of equivalence, events that take place in an accelerated
+laboratory cannot be distinguished from those which take place in a gravitational field. Hence the
+deflection of a light beam relative to an observer in an accelerated laboratory means that light must
+be similarly deflected in a gravitational field.
+Other Findings of General Relativity
+A further success of general relativity was the clearing up of a long-standing puzzle in
+astronomy. The perihelion of a planetary orbit is the point in the orbit nearest the sun.
+Mercury’s orbit has the peculiarity that its perihelion shifts (precesses) about 1.6° per
+century (Fig. 1.21). of this shift is
+due to the attractions of other planets, and for a while the discrepancy was used as
+evidence for an undiscovered planet called Vulcan whose orbit was supposed to lie
+Relativity 35
+Star
+Apparent
+position
+of star
+Sun
+Starlight
+Sun
+Figure 1.19 Starlight passing near the sun is deflected by its strong gravitational field. The deflection
+can be measured during a solar eclipse when the sun’s disk is obscured by the moon.
+Earth
+Massive
+object
+Apparent
+position
+of source
+Source
+Light and radio waves from source
+Apparent
+position
+of source
+Figure 1.20 A gravitational lens. Light and radio waves from a source such as a quasar are deviated by a massive object such as a
+galaxy so that they seem to come from two or more identical sources. A number of such gravitational lenses have been identified.
+bei48482_ch01.qxd 1/15/02 1:21 AM Page 35
+inside that of Mercury. When gravity is weak, general relativity gives very nearly the
+same results as Newton’s formula F  Gm1m2r
+2
+. But Mercury is close to the sun and
+so moves in a strong gravitational field, and Einstein was able to show from general
+relativity that a precession of 43 per century was to be expected for its orbit.
+The existence of gravitational waves that travel with the speed of light was the
+prediction of general relativity that had to wait the longest to be verified. To visualize
+gravitational waves, we can think in terms of the model of Fig. 1.17 in which twodimensional space is represented by a rubber sheet distorted by masses embedded in
+it. If one of the masses vibrates, waves will be sent out in the sheet that set other masses
+in vibration. A vibrating electric charge similarly sends out electromagnetic waves that
+excite vibrations in other charges.
+A big difference between the two kinds of waves is that gravitational waves are extremely weak, so that despite much effort none have as yet been directly detected.
+However, in 1974 strong evidence for gravitational waves was found in the behavior
+of a system of two nearby stars, one a pulsar, that revolve around each other. A pulsar
+is a very small, dense star, composed mainly of neutrons, that spins rapidly and sends
+out flashes of light and radio waves at a regular rate, much as the rotating beam of a
+lighthouse does (see Sec. 9.11). The pulsar in this particular binary system emits pulses
+every 59 milliseconds (ms), and it and its companion (probably another neutron star)
+have an orbital period of about 8 h. According to general relativity, such a system
+should give off gravitational waves and lose energy as a result, which would reduce
+the orbital period as the stars spiral in toward each other. A change in orbital period
+means a change in the arrival times of the pulsar’s flashes, and in the case of the observed binary system the orbital period was found to be decreasing at 75 ms per year.
+This is so close to the figure that general relativity predicts for the system that there
+seems to be no doubt that gravitational radiation is responsible. The 1993 Nobel Prize
+in physics was awarded to Joseph Taylor and Russell Hulse for this work.
+Much more powerful sources of gravitational waves ought to be such events as two
+black holes colliding and supernova explosions in which the remnant star cores collapse into neutron stars (again, see Sec. 9.11). A gravitational wave that passes through
+a body of matter will cause distortions to ripple through it due to fluctuations in the
+gravitational field. Because gravitational forces are feeble—the electric attraction between a proton and an electron is over 1039 times greater than the gravitational attraction between them—such distortions at the earth induced by gravitational waves
+from a supernova in our galaxy (which occurs an average of once every 30 years or
+so) would amount to only about 1 part in 1018, even less for a more distant supernova. This corresponds to a change in, say, the height of a person by well under the
+diameter of an atomic nucleus, yet it seems to be detectable—just—with current
+technology.
+In one method, a large metal bar cooled to a low temperature to minimize the random thermal motions of its atoms is monitored by sensors for vibrations due to gravitational waves. In another method, an interferometer similar to the one shown in
+Fig. 1.2 with a laser as the light source is used to look for changes in the lengths of
+the arms to which the mirrors are attached. Instruments of both kinds are operating,
+thus far with no success.
+A really ambitious scheme has been proposed that would use six spacecraft in orbit around the sun placed in pairs at the corners of a triangle whose sides are 5 million
+kilometers (km) long. Lasers, mirrors, and sensors in the spacecraft would detect
+changes in their spacings resulting from the passing of a gravitational wave. It may only
+be a matter of time before gravitational waves will be providing information about a
+variety of cosmic disturbances on the largest scale.
