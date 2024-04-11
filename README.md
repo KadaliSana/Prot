@@ -1,5 +1,5 @@
-## Prot
-Implementation Example: 
+# Prot
+## Implementation Example: 
 
 In the example below, we consider the popular university physics textbook, Concepts of Modern physics by Arthur Beisser, chapter 1: Relativity for the example. 
 
